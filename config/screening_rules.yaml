@@ -1,0 +1,9 @@
+research_score:
+  weights:
+    long_term_trend: 0.25
+    relative_performance: 0.20
+    historical_volatility: 0.15
+    maximum_drawdown: 0.15
+    volume_consistency: 0.15
+    price_52_week_structure: 0.10
+  missing_component_policy: exclude_and_report_coverage

@@ -1,0 +1,4 @@
+# Populate/refresh from a verified, permitted NSE source.
+# Do not treat this starter list as an authoritative current constituent file.
+symbols: []
+source: "Not configured - populate after verifying NSE MCP capabilities and usage terms"

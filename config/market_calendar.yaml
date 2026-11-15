@@ -1,0 +1,5 @@
+# Maintain this file from an authoritative NSE trading calendar.
+# This starter intentionally does not assume every weekday is a trading day.
+timezone: Asia/Kolkata
+holidays: []
+special_sessions: []
